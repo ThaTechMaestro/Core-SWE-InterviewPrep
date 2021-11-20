@@ -1,0 +1,5 @@
+- The JVM
+    It converts Javabytecode into machine code and executes it
+    
+    Memory leak is a situation where unused objects occupy unnecessary space in memory.
+
